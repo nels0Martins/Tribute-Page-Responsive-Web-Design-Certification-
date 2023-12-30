@@ -61,5 +61,20 @@ body {
 }
 
 
+@media (max-width: 500px){
+    
+    body {
+        background-color: white;
+        padding: 0; margin: 0;
+    }
+    
+    #main {
+        max-width: 100%;
+        margin: 0;
+        font-size: 1rem;
+    }
+}
+
+
 
 
